@@ -1,4 +1,4 @@
-# react+refluxjs-single-page-state-pattern
+# react-refluxjs-single-page-state-pattern
 
 This is a pattern for implementing a single state hierarchy for a page in refluxjs. It uses the [refluxjs aggregate store pattern](https://github.com/souptown/refluxjs-aggregate-store-pattern).
 
